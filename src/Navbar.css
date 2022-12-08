@@ -1,0 +1,54 @@
+.navbar{
+    height: 70px;
+    background: linear-gradient(360deg,rgba(37,38,41,.24) 26.22%,#27292d),linear-gradient(0deg,#171544,#171544);
+  }
+  
+  .Imgur-icon
+  {
+   width: 90px;
+   bottom: 5px;
+   margin-left: 10px;
+   
+  }
+
+  .search-bar
+  {
+      margin-left: 300px;
+      display: inline;
+      
+  }
+
+  .search{
+      width: 500px;
+      height: 40px;
+      color: #fff;
+      background-color: hsla(0,0%,100%,.25);
+      border: 1px solid transparent;
+      min-height: 36px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .4px;
+    
+  }
+
+  .btn
+  {
+      margin-left: 20px;
+  }
+ .signin{
+     margin-left: 20px;
+     margin-right: 10px;
+     text-decoration: none;
+     color: white;
+     
+ }
+ 
+ .btn-primary{
+     background-color: #1f8c4f;
+     color: white;
+ }
+
+ .btn-secondary{
+     background-color: #411f8c;
+     color: white;
+ }

@@ -1,0 +1,33 @@
+.aside-cont
+{
+    width : 100%;
+    height : 150vh;
+    position: absolute;
+    top: 0;
+
+}
+
+.aside{
+   width: 300px;
+   background-color:grey;
+   height:90vh;
+   position:sticky;
+   top:80px;
+   float: right;
+}
+
+
+.List2{
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.topup{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    border-radius: 2px;
+    background-color:  grey;
+}

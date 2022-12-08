@@ -1,0 +1,36 @@
+.para {
+  width: 50%;
+  height: 250vh;
+  border: 1px solid balck;
+  position: relative;
+  left: 20%;
+  right: 30%;
+  padding: 110px 50px;
+}
+.Barchart {
+  width: 50vw;
+}
+.info {
+  position: absolute;
+}
+
+.info > span {
+  color: white;
+}
+
+.btnn {
+  position: static;
+  float: right;
+  right: 50%;
+}
+
+.dots {
+  position: absolute;
+  bottom: 12px;
+  top: 0px;
+  left: 550px;
+}
+
+span{
+    position: inherit;
+}
