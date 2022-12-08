@@ -14,11 +14,15 @@ function Navbar() {
             </button>
             <div className="search-bar">
               <input
+                id="seacrch"
                className="search"
                 type="search"
                 placeholder="Images, #tags,@user Oh my!"
                 aria-label="Search"
               />
+              {/* <img src="https://img.icons8.com/puffy/32/000000/experimental-search-puffy.png"/>
+              </input> */}
+              <a href="" ><img  className="img" for="search"src="https://img.icons8.com/puffy/32/000000/experimental-search-puffy.png"/></a>
             </div>
             <button className="btn btn-secondary" type="submit">
               Go Addfree

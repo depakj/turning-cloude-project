@@ -52,3 +52,9 @@
      background-color: #411f8c;
      color: white;
  }
+.img{
+    position: absolute;
+    left: 950px;
+    top: 15px;
+    cursor: pointer;
+}
